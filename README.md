@@ -3,4 +3,4 @@
 Estamos practicando con el markDown y subiendo archivos a GitHub
 
 Editando desde _Visual Studio Code_ 
-Agregado mas contenido al _Readme_
+Agregado al _Readme_
