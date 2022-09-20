@@ -2,4 +2,3 @@
 
 Estamos practicando con el markDown y subiendo archivos a GitHub
 
-## Editando desde GitHub
